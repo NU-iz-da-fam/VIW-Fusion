@@ -1,4 +1,7 @@
 # VIW-Fusion
+
+**Update and compile succesfully with ROS 1 Noetic + Ubuntu 20.04 + OpenCV 4** 
+
 ## An visual-inertial-wheel fusion odometry
 VIW-Fusion is an optimization-based viusla-inertial-wheel fusion odometry, which is developed as a part of my master thesis.
 **Features:**
